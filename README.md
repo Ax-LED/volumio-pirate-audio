@@ -1,7 +1,12 @@
 # volumio-pirate-audio
 Python code (plugin) to use pirate audio dac with volumio (including display and the 4 buttons) and a raspberry pi.
-## Screenshots
-... will follow ...
+## Pictures
+Player Mode:<br>
+![Volumio pirate audio picture 1](https://raw.githubusercontent.com/Ax-LED/volumio-pirate-audio/master/pictures/picture_player_mode.jpg)<br>
+Menu Mode:<br>
+![Volumio pirate audio picture 2](https://raw.githubusercontent.com/Ax-LED/volumio-pirate-audio/master/pictures/picture_menu_mode.jpg)<br>
+Browselibrary Mode:<br>
+![Volumio pirate audio picture 3](https://raw.githubusercontent.com/Ax-LED/volumio-pirate-audio/master/pictures/picture_browselibrary_mode.jpg)
 ## Installation
 ### Clone this repository
 Clone this repository to `/home/volumio/` on your raspberry pi.
