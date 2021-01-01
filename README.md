@@ -24,3 +24,10 @@ gpio=20=pu
 <b>Reason:</b>
 - GPIO 25 settings are important for the amp
 - to set PullUp of GPIO PINS 16 and 20 so they work
+### Install depencies:
+````
+sudo apt-get update
+sudo apt-get install -y python-rpi.gpio python-spidev python-pip python-pil python-numpy
+sudo pip install st7789
+sudo pip install socketIO-client
+````
