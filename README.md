@@ -9,7 +9,7 @@ Clone this repository to `/home/volumio/` on your raspberry pi.
 git clone https://github.com/Ax-LED/volumio-pirate-audio
 ````
 ### Set permitions/rights so files will be executable:
-`sudo chmod +x /home/volumio/volumio-pirate-audio/boot.py`
+`sudo chmod +x /home/volumio/volumio-pirate-audio/boot.py` 
 `sudo chmod +x /home/volumio/ volumio-pirate-audio/display.py`
 ### Modifiy /boot/config.txt by adding following lines:
 ````javascript
