@@ -39,6 +39,6 @@ Modify /etc/rc.local by adding following lines: `sudo nano /etc/rc.local`
 exit 0
 ````
 <b>Note:</b> The & (ampersand) at the end is important. Add the lines mentioned above <u>before</u> „exit 0“
-<b>Final:</b> 
+### Final:
 Reboot your pi `sudo reboot`
 
