@@ -1,3 +1,12 @@
+## Update 07. January 2021
+You don't have to use this repository anymore, as "pirateaudio" is now available as plugin via volumio GUI
+(see plugin section (miscellanea/pirateaudio) in volumio)
+
+<b>Notes:</b>
+- You have to restart volumio after installation, as the install process adds informations to /boot/userconfig.txt, which are only used after a restart.
+- Output devices should be set to "HiFiBerry DAC" (if not already set)
+- Volume setting -> type of mixer should be set to "Software" (if not already set)
+
 # volumio-pirate-audio
 Python code (plugin) to use pirate audio dac with volumio (including display and the 4 buttons) and a raspberry pi.
 ## Pictures
